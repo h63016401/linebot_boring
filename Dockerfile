@@ -2,7 +2,7 @@ FROM python:3.10
 
 WORKDIR /web
 COPY . /web/
-RUN pip install --upgrade pip
+#RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 
 WORKDIR /web/
