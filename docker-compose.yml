@@ -5,6 +5,8 @@ services:
         container_name: boringlinebot
         tty: true
         restart: always
+        volumes:
+            - ./:/web
         ports:
             - 7200:5000
         networks:
