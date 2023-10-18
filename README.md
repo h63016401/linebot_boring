@@ -10,7 +10,8 @@ LINE Develpers console：https://developers.line.biz/console/
 申請一個 LINE Simple Beacon Hardware ID:https://manager.line.biz/beacon/register
 
 Arduino Esp32 S3「額外的開發板管理員網址」，將 https://dl.espressif.com/dl/package_esp32_index.json 
-##快速上手
+
+## 快速上手
 
 1. 下載專案
 
