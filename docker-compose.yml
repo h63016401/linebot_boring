@@ -1,0 +1,14 @@
+version: '3.3'
+services: 
+    django_uav:
+        build: ./
+        container_name: boringlinebot
+        tty: true
+        restart: always
+        ports:
+            - 7200:5000
+        networks:
+          - nginx
+
+networks:
+  nginx:
