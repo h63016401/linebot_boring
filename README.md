@@ -11,6 +11,8 @@ LINE Develpers console：https://developers.line.biz/console/
 
 Arduino Esp32 S3「額外的開發板管理員網址」，將 https://dl.espressif.com/dl/package_esp32_index.json 
 
+相關應用可以參考這個:https://hackmd.io/@taichunmin/chatbot-tw-202002?print-pdf#/
+
 ## 快速上手
 
 1. 下載專案
